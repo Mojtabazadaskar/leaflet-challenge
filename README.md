@@ -56,6 +56,9 @@ Your first task is to visualize an earthquake dataset. Complete the following st
         Create a legend that will provide context for your map data.
 
         Your visualization should look something like the preceding map.
+        
+        for visualazation check the image folder 
+
 
 Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
